@@ -1,4 +1,9 @@
 @charset "UTF-8";
+.container a:hover {
+  color: indianred;
+}
+.container a { color: white;}
+
 .container {
 	background-color: #FFFFFF;
 	width: 90%;
@@ -15,11 +20,11 @@
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-bottom: 0px;
-	margin-left: 0px;
+	margin-left: 15px;
 	padding-top: 0px;
 	padding-right: 0px;
 	padding-bottom: 0px;
-	padding-left: 0px;
+	padding-left: 15px;
 	display: inline-block
 }
 .row.blockDisplay {
@@ -165,6 +170,12 @@
 }
 .footer {
 	background-color: #717070;
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	clear: left;
+	
 }
 .title {
 	font-weight: bold;
