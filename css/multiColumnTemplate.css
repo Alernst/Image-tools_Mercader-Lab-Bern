@@ -4,6 +4,7 @@
 }
 .container a { color: white;}
 .row h4 a { color: #01B2D1;}
+.row p a { color: indianred;}
 .container {
 	background-color: #FFFFFF;
 	width: 90%;
